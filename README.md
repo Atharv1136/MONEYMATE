@@ -1,4 +1,3 @@
-# MONEYMATE
 # 💰 Money Mate - Expense Tracking App
 
 ### 🚀 Your Personal Finance Assistant, Simplified
@@ -42,6 +41,52 @@ Money Mate is built with the goal of simplifying financial management. Whether y
 - **Secure Authentication**: Protect your financial data with login features.  
 - **Mobile App**: Take Money Mate everywhere with iOS and Android apps.    
 - **Advanced Analytics**: Predict future expenses and provide actionable advice.  
+
+---
+
+## 📝 Installation and Running the App
+
+To run the "Money Mate" expense tracking app and install its dependencies, follow these step-by-step instructions:
+
+### Step-by-Step Procedure
+
+1. **Install Python**:
+   - Ensure that Python is installed on your system. You can download it from the [official Python website](https://www.python.org/downloads/). 
+   - During installation, make sure to check the box that says **"Add Python to PATH"**.
+
+2. **Open Command Prompt/Terminal**:
+   - For Windows, search for "cmd" in the Start menu.
+   - For macOS or Linux, open the Terminal application.
+
+3. **Install Tkinter**:
+   - Tkinter usually comes pre-installed with Python. To check if it's installed, run:
+     ```bash
+     python -m tkinter
+     ```
+     - If a window opens, Tkinter is installed. If not, refer to your Python installation documentation.
+
+4. **Install Matplotlib**:
+   - Run the following command to install Matplotlib:
+     ```bash
+     pip install matplotlib
+     ```
+
+5. **Install Pillow**:
+   - Run the following command to install Pillow:
+     ```bash
+     pip install Pillow
+     ```
+
+6. **Download the Source Code**:
+   - Obtain the source code for the "Money Mate" app from your project repository or provided files.
+
+7. **Run the Application**:
+   - Navigate to the directory where the source code is located using the `cd` command in your command prompt or terminal.
+   - Run the application with the following command:
+     ```bash
+     python <name_of_your_script>.py
+     ```
+     - Replace `<name_of_your_script>` with the actual name of your Python file (e.g., `money_mate.py`).
 
 ---
 
