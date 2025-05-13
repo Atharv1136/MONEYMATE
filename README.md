@@ -95,11 +95,10 @@ To run the "Money Mate" expense tracking app and install its dependencies, follo
 This project was created and developed exclusively by **Atharv Bhosale**. It reflects a passion for technology and a dedication to building tools that solve real-world problems.
 
 ---
+## 📢 Acknowledgment
+
+Special thanks to all the resources, tools, and technologies that helped make this project a reality. Your support fuels the journey toward innovation!  
+
+---
 
 
-- **LinkedIn**: [www.linkedin.com/in/atharvbhosale](https://www.linkedin.com/in/atharvbhosale)
-
-I'm always open to discussions about projects, collaborations, or anything related to technology! 😊
-
-
-**Made with ❤️ by Atharv Bhosale**
