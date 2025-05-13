@@ -100,5 +100,14 @@ This project was created and developed exclusively by **Atharv Bhosale**. It ref
 Special thanks to all the resources, tools, and technologies that helped make this project a reality. Your support fuels the journey toward innovation!  
 
 ---
+## 🌟 Let's Get Started!
+
+With Money Mate, you’re just a step away from mastering your finances. Track, analyze, and achieve your financial goals—all in one place!
+
+---
+## 📞 Contact Me
+
+Feel free to reach out to me through any of the following methods:
+
 
 
