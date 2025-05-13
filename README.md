@@ -108,6 +108,13 @@ With Money Mate, you’re just a step away from mastering your finances. Track, 
 ## 📞 Contact Me
 
 Feel free to reach out to me through any of the following methods:
+- **Email**: [atharvbhosale00@gmail.com](mailto:atharvbhosale00@gmail.com)
 
+- **LinkedIn**: [www.linkedin.com/in/atharvbhosale](https://www.linkedin.com/in/atharvbhosale)
+
+I'm always open to discussions about projects, collaborations, or anything related to technology! 😊
+
+
+**Made with ❤️ by Atharv Bhosale**
 
 
