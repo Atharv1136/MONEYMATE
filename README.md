@@ -114,7 +114,7 @@ Feel free to reach out to me through any of the following methods:
 
 I'm always open to discussions about projects, collaborations, or anything related to technology! 😊
 
-
+**Made with ❤️ by Atharv Bhosale**
 
 
 
