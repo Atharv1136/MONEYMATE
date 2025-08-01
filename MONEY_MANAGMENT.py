@@ -179,3 +179,4 @@ analysis_button.grid(row=5, column=0, pady=(10, 20))
 expense_window.withdraw()
 
 # Run the main loop
+root.mainloop()
