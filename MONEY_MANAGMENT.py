@@ -175,3 +175,8 @@ balance_label.grid(row=4, column=0, pady=(5, 0))
 analysis_button = ttk.Button(input_frame_expense, text="Analysis", command=show_analysis)
 analysis_button.grid(row=5, column=0, pady=(10, 20))
 
+# Hide expense window initially
+expense_window.withdraw()
+
+# Run the main loop
+root.mainloop()
